@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BRAY MADOUE KAGONGBE</h1>
-<h3 align="center">I hold a bachelor in cybersecurity and an other bachelor in data analysis</h3>
+<h3 align="center">Student Master degre Network security and administration at Université de reims/France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberbray235&label=Profile%20views&color=0e75b6&style=flat" alt="cyberbray235" /> </p>
 
@@ -7,9 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/bkagongbe10" target="blank"><img src="https://img.shields.io/twitter/follow/bkagongbe10?logo=twitter&style=for-the-badge" alt="bkagongbe10" /></a> </p>
 
-- 🔭 I’m currently working on [ALX(Sofware engineering)](https://www.alxafrica.com/)
-
-- 🌱 I’m currently an internship **Cyber Secured India**
 
 - 📫 How to reach me **madouebray@gmail.com**
 
